@@ -1,4 +1,4 @@
-name: بناء تطبيق بيور الآلي
+name: build pure translate app
 
 on:
   push:
@@ -11,11 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Unzip Project
-        run: |
-          unzip -o pure-translate.zip -d extracted_project
-          cp -r extracted_project/pure-translate/* .
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4
