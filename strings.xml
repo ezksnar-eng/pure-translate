@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بيور ترجمة</string>
+    <string name="grant_overlay">فعّل صلاحية النافذة العائمة</string>
+    <string name="start_service">بدء الترجمة العائمة</string>
+    <string name="stop_service">إيقاف</string>
+    <string name="notif_title">بيور ترجمة تعمل</string>
+    <string name="notif_text">النافذة العائمة تترجم الشاشة الآن</string>
+</resources>

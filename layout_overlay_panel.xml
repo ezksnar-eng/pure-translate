@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_panel"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/btnHide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="إخفاء (يحتاج 5 ضغطات ليرجع)"
+        android:textColor="@color/deep_pink"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/btnStop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="إيقاف الترجمة"
+        android:textColor="@color/hot_pink"
+        android:textSize="13sp" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hot_pink">#FF3D8B</color>
+    <color name="deep_pink">#C81466</color>
+    <color name="pale_pink">#FFE1EF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ink">#4A0B2C</color>
+    <color name="overlay_bg">#F2FFFFFF</color>
+</resources>
